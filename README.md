@@ -211,7 +211,14 @@ Ex : One calendar INO_CORP for Corporate and INO_USA, INO_UK for specific countr
 4.  Compensation & Payroll
 4.  Leave System
 4.  Approval Hierarchy
-	
+
+### Quality
+1. Collection Element
+2. Specifications
+3. Collection Plan
+4. Quality Result
+5. Intergation with Purchasing
+
 ### Basic Features
 1.	 Options
 2.	 Value Groups
